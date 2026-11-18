@@ -5,8 +5,9 @@ env/
 __pycache__/
 *.py[cod]
 
-# Datos reales (NUNCA versionar): este repositorio trabaja con datos sinteticos
-data_anexo4/
+# Datos reales (nunca versionar): este repositorio trabaja solo con datos sinteticos
+datos_reales/
+*_origen/
 *.pdf
 *.gpkg
 *.zip
