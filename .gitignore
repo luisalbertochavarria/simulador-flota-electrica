@@ -1,0 +1,22 @@
+# Entorno
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Datos reales (NUNCA versionar): este repositorio trabaja con datos sinteticos
+data_anexo4/
+*.pdf
+*.gpkg
+*.zip
+
+# Salidas y respaldos de desarrollo
+verificacion_verde/
+respaldo/
+respado/
+*.bak
+salida_test.txt
+
+# Streamlit
+.streamlit/secrets.toml

@@ -1,0 +1,29 @@
+{
+  "Laboral": {
+    "n_buses": 500,
+    "n_exp": 5332,
+    "km_comercial": 112322.5,
+    "km_vacio": 10362.1,
+    "n_recargas": 30,
+    "t_recarga_min": 966.9,
+    "kwh_recarga": 9112.1
+  },
+  "Sábado": {
+    "n_buses": 355,
+    "n_exp": 3994,
+    "km_comercial": 84034.6,
+    "km_vacio": 6039.7,
+    "n_recargas": 36,
+    "t_recarga_min": 1117.0,
+    "kwh_recarga": 11245.1
+  },
+  "Domingo": {
+    "n_buses": 326,
+    "n_exp": 3431,
+    "km_comercial": 71655.9,
+    "km_vacio": 7699.1,
+    "n_recargas": 27,
+    "t_recarga_min": 867.0,
+    "kwh_recarga": 8200.2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Terminal Norte": [
+    -70.665,
+    -33.402
+  ],
+  "Terminal Poniente": [
+    -70.741,
+    -33.512
+  ],
+  "Terminal Sur": [
+    -70.652,
+    -33.59
+  ],
+  "Terminal Oriente": [
+    -70.551,
+    -33.449
+  ],
+  "Terminal Central": [
+    -70.648,
+    -33.461
+  ]
+}

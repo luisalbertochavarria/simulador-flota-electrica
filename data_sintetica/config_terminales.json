@@ -1,0 +1,50 @@
+{
+  "terminales": {
+    "Terminal Norte": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06"
+    ],
+    "Terminal Poniente": [
+      "S07",
+      "S08",
+      "S09",
+      "S10",
+      "S11",
+      "S12"
+    ],
+    "Terminal Sur": [
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18"
+    ],
+    "Terminal Oriente": [
+      "S19",
+      "S20",
+      "S21",
+      "S22",
+      "S23",
+      "S24"
+    ],
+    "Terminal Central": [
+      "S25",
+      "S26",
+      "S27",
+      "S28",
+      "S29",
+      "S30"
+    ]
+  },
+  "tipos_bus": [
+    "A2V",
+    "B2V",
+    "C2D"
+  ],
+  "nota": "Datos sinteticos generados para demostracion. Sin informacion real."
+}
