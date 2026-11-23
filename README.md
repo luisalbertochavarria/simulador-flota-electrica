@@ -7,6 +7,14 @@ de noche?**
 
 Desarrollo propio (proyecto personal, autodidacta).
 
+## Demostración interactiva
+
+**https://luisalbertochavarria.github.io/simulador-flota-electrica/**
+
+Se abre en el navegador, sin instalar nada. Los gráficos permiten zoom, desplazamiento y detalle al
+pasar el cursor sobre cada evento. La página se genera con `generar_pagina_estatica.py` a partir del
+motor de simulación y los datos sintéticos del repositorio.
+
 ## El problema
 
 Al incorporar buses eléctricos a una flota, la programación de servicios ya no depende solo de
