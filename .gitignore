@@ -21,3 +21,8 @@ salida_test.txt
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scripts auxiliares locales (no se publican)
+limpiar_commit.py
+commit_demo.py
+corregir_commit.py
